@@ -1,0 +1,102 @@
+*
+{
+    padding: 0;
+    margin: 0px auto;
+    /* display: none; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline-color: aqua;
+}
+.egg
+{
+    display: flex;
+    margin-right: 20px;
+    /* border: 1px solid gray; */
+    padding: 10px;
+}
+.egg >li
+{
+    padding: 10px;
+    text-decoration: none;
+    /* margin-left: 25rem; */
+    /* border: 1px solid gray; */
+}
+.food
+{
+    border: none;
+}
+.main
+{
+    background-image: url(./jk.png);
+    height: 576px;
+    margin-right: 617%;
+    
+}
+.main_div
+{
+    padding: 80px;
+    color: white;
+    
+}
+.hhh
+{
+    border-radius: none;
+}
+.btn
+{
+    padding: 10px 20px 10px 20px;
+    margin-top: 1px;
+    border-radius: none;
+}
+#qwert
+{
+    padding: 10px 20px 10px 20px ;
+    color: gray;
+    border-radius: none;
+    /* background: ghostwhite; */
+}
+.btn >#qwert
+{
+    cursor: pointer;
+     font-weight: bold;
+    
+}
+.quest
+{
+    /* border: 1px solid red; */
+    display: flex;
+    grid-template-columns: repeat(3,);
+    gap: 34rem;
+}
+.div1
+{
+    padding: 20px;
+    margin-top: 90px;
+    text-align: center;
+}
+.div1 >h3
+{
+    padding: 20px;
+}
+.div1 >h5
+{
+    text-align: center;
+    font-display: 10px;
+}
+.div2
+{
+    
+    margin-top: 90px;    
+}
+.div2 >h2
+{
+    margin-bottom: 3rem;
+}
+#vest
+{
+    padding: 3px 20px 10px 3px ;
+    font-weight: bolder;
+    display: grid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    border: none;
+}
